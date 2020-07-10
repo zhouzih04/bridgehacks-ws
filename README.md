@@ -1,1 +1,1 @@
-# bridgehacks-ws
+# BridgeHacks Python Workshop
